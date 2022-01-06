@@ -13,5 +13,5 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 - 🤣 Fun fact: C++, C# is easy than Classroom in School (just kidding)
 
 <p align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=fusedevgithub)
 </p>
