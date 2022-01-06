@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm PC1266
+I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 
 <!--
 **PC1266/PC1266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
