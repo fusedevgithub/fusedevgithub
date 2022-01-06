@@ -10,3 +10,4 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 - ⌨  My Learn Language: HTML, C#, C++, Batch (soon i will learn java, nodejs, javascript, python)
 - 🤔 I don't know but i turn computer language to weapon?
 - 👌 I use 2nd computer to learn computer language but thanks spec is can go!
+- 🤣 the fact: C++, C# is easy than Class in School (just kidding)
