@@ -23,4 +23,6 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
     [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![IDE:Rider](https://img.shields.io/badge/IDE-Rider-blue?style=flat-square&logo=Rider)](https://www.jetbrains.com/rider/)
       [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
+    
+    [![email](https://img.shields.io/badge/Email-pc1266coding@gmail.com-red?style=flat-square&logo=gmail)](mailto:pc1266coding@gmail.com)
 </div>
