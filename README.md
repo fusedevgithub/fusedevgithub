@@ -11,3 +11,7 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 - 🤔 I don't know but i turn computer language to weapon?
 - 👌 I use 2nd computer to learn computer language but thanks spec is can go!
 - 🤣 Fun fact: C++, C# is easy than Classroom in School (just kidding)
+
+<p align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+</p>
