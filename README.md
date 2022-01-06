@@ -13,5 +13,6 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 - 🤣 Fun fact: C++, C# is easy than Classroom in School (just kidding)
 
 <div align="center">
+    ![Counter](https://visitor-badge.glitch.me/badge?page_id=fusedevgithub)
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 </div>
