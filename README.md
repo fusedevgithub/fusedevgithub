@@ -15,7 +15,8 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 <div align="center">
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=fusedevgithub)
-    ![githubfollow](https://img.shields.io/github/followers/fusedevgithub)
+    ![githubfollow](https://img.shields.io/github/followers/fusedevgithub?style=social)
+    
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
     
 </div>
