@@ -25,6 +25,6 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
       [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
     
 [![email](https://img.shields.io/badge/Email-pc1266coding@gmail.com-red?style=flat-square&logo=gmail)](mailto:pc1266coding@gmail.com)
+</div>
     ### Some announcement.
 On this year i will **DISCONTINUED** ALL about DDoS attacking no worry i will create a other project!
-</div>
