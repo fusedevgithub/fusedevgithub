@@ -12,6 +12,10 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 - 👌 I use 2nd computer to learn computer language but thanks spec is can go!
 - 🤣 Fun fact: C++, C# is easy than Classroom in School (just kidding)
 
+### Some announcement.
+- On this year i will **DISCONTINUED** ALL about DDoS attacking no worry i will create a other project!
+
+
 <div align="center">
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=fusedevgithub)
@@ -26,5 +30,3 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
     
 [![email](https://img.shields.io/badge/Email-pc1266coding@gmail.com-red?style=flat-square&logo=gmail)](mailto:pc1266coding@gmail.com)
 </div>
-### Some announcement.
-- On this year i will **DISCONTINUED** ALL about DDoS attacking no worry i will create a other project!
