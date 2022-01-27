@@ -14,6 +14,7 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 
 ### Some announcement.
 - On this year i will **DISCONTINUED** ALL about DDoS attacking no worry i will create a other project!
+- I moving to windows 8.1 because some project i need Windows IDE.
 
 
 <div align="center">
@@ -22,11 +23,9 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
     ![githubfollow](https://img.shields.io/github/followers/fusedevgithub)
     ![spoor](https://img.shields.io/github/sponsors/fusedevgithub)
     
-[![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+[![OS:Windows8.1](https://img.shields.io/badge/OS-Windows8.1-blue?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/software-download/windows8ISO)
       [![OS:Android11](https://img.shields.io/badge/OS-Android11-green?style=flat-square&logo=android)](https://www.android.com/)
-    [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![IDE:Rider](https://img.shields.io/badge/IDE-Rider-blue?style=flat-square&logo=Rider)](https://www.jetbrains.com/rider/)
-      [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
+    [![IDE:VSCode](https://img.shields.io/badge/IDE-VS2019-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
     
 [![email](https://img.shields.io/badge/Email-pc1266coding@gmail.com-red?style=flat-square&logo=gmail)](mailto:pc1266coding@gmail.com)
 </div>
