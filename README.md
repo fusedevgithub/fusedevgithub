@@ -25,7 +25,8 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
     
 [![OS:Windows8.1](https://img.shields.io/badge/OS-Windows8.1-blue?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/software-download/windows8ISO)
       [![OS:Android11](https://img.shields.io/badge/OS-Android11-green?style=flat-square&logo=android)](https://www.android.com/)
-    [![IDE:VSCode](https://img.shields.io/badge/IDE-VS2019-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
+    [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+    [![IDE:VS2019](https://img.shields.io/badge/IDE-VS2019-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
     
 [![email](https://img.shields.io/badge/Email-pc1266coding@gmail.com-red?style=flat-square&logo=gmail)](mailto:pc1266coding@gmail.com)
 </div>
