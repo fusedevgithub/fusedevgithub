@@ -12,10 +12,6 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 - 👌 I use 2nd computer to learn computer language but thanks spec is can go!
 - 🤣 Fun fact: C++, C# is easy than Classroom in School (just kidding)
 
-### Some announcement.
-- On this year i will **DISCONTINUED** ALL about DDoS attacking no worry i will create a other project!
-- I moving to windows 8.1 because some project i need Windows IDE.
-
 
 <div align="center">
 
