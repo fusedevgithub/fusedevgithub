@@ -23,7 +23,7 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
     ![githubfollow](https://img.shields.io/github/followers/fusedevgithub)
     ![spoor](https://img.shields.io/github/sponsors/fusedevgithub)
     
-[![OS:Windows8.1](https://img.shields.io/badge/OS-Windows-10-blue?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/software-download/windows8ISO)
+[![OS:Windows10](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/software-download/windows8ISO)
       [![OS:Android11](https://img.shields.io/badge/OS-Android11-green?style=flat-square&logo=android)](https://www.android.com/)
     [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
     [![IDE:VS2019](https://img.shields.io/badge/IDE-VS2019-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
