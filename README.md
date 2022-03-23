@@ -12,8 +12,6 @@ I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 - 👌 I use 2nd computer to learn computer language but thanks spec is can go!
 - 🤣 Fun fact: C++, C# is easy than Classroom in School (just kidding)
 
-# This account will not active anymore.
-
 <div align="center">
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=fusedevgithub)
