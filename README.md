@@ -1,3 +1,7 @@
+### No active anymore
+Due to **MANY** reason i decided to move github
+* You can follow in here -> @FuseMCDEV
+* More info soon.
 ### Hi there 👋
 I'm fusedev! (username is fusedevgithub. *Someone is taken fusedev :( sad.*)
 
